@@ -1,0 +1,22 @@
+{
+  "name": "hangmannode",
+  "version": "1.0.0",
+  "description": "Hangman in node",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codechennerator/hangmanNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codechennerator/hangmanNode/issues"
+  },
+  "homepage": "https://github.com/codechennerator/hangmanNode#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1"
+  }
+}
